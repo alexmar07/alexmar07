@@ -5,7 +5,8 @@
 
 *Building backends from Nola, Italy 🇮🇹*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandromarotta-b8644a174)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-marotta-dev)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alessandromarotta.it)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessand.marotta@gmail.com)
 
 </div>
@@ -75,8 +76,9 @@ Backend engineer with **6+ years of experience** in web applications, ERP system
 
 Available for **freelance collaborations** on AI integration, backend development, and distributed systems architecture.
 
+🌐 [alessandromarotta.it](https://alessandromarotta.it)
 📧 [alessand.marotta@gmail.com](mailto:alessand.marotta@gmail.com)
-💼 [linkedin.com/in/alessandromarotta-b8644a174](https://linkedin.com/in/alessandromarotta-b8644a174)
+💼 [linkedin.com/in/alessandro-marotta-dev](https://www.linkedin.com/in/alessandro-marotta-dev)
 
 ---
 
